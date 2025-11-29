@@ -22,7 +22,7 @@
       }
     ]
   },
-    "education": [
+  "education": [
     {
       "institution": "University of Tokyo, Tokyo, Japan",
       "location": "Tokyo, Japan",
@@ -53,7 +53,7 @@
   ],
   "work": [
     {
-      "name": "the University of Tokyo",
+      "name": "The University of Tokyo",
       "position": "Research Assistant",
       "url": "https://cfs.t.u-tokyo.ac.jp/",
       "startDate": "2023-12-01",
@@ -65,9 +65,9 @@
       "url": "https://eques.co.jp/",
       "startDate": "2025-07-01",
       "endDate": ""
-    },
+    }
   ],
-  "academic activities": [
+  "academic_activities": [
     {
       "title": "Reviewer for International Conference on Learning Representations (ICLR)",
       "date": "2026"
@@ -75,9 +75,9 @@
     {
       "title": "Reviewer for The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR)",
       "date": "2026"
-    },
+    }
   ],
-  "grant": [
+  "grants": [
     {
       "title": "Leadership Development Program for Ph.D.",
       "url": "https://www.cerpo.t.u-tokyo.ac.jp/ldpp/",

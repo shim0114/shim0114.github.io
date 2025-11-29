@@ -1,5 +1,5 @@
 "yutaka":
-  - firstname: ["Yutaka", "Y.", "Matsuo"]
+  - firstname: ["Yutaka", "Matsuo"]
     url: https://ymatsuo.com/en
 
 "furuta":
@@ -13,3 +13,7 @@
 "suzuki":
   - firstname: ["Masahiro", "Suzuki"]
     url: https://scholar.google.co.jp/citations?user=r2nt5kUAAAAJ&hl=ja
+
+"taniguchi":
+  - firstname: ["Shohei", "Taniguchi"]
+    url: https://scholar.google.com/citations?user=MOcH0c0AAAAJ&hl=ja

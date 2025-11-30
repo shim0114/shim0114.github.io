@@ -67,9 +67,20 @@
       "endDate": ""
     }
   ],
-  "grants": [
+  "volunteer": [
+    {
+      "title": "Reviewer for International Conference on Learning Representations (ICLR)",
+      "date": "2026"
+    },
+    {
+      "title": "Reviewer for The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "date": "2026"
+    }
+  ],
+  "projects": [
     {
       "name": "Leadership Development Program for Ph.D. (LDPP), the University of Tokyo",
+      "summary": "Grant Amount: 1,000,000 JPY"
       "url": "https://www.cerpo.t.u-tokyo.ac.jp/ldpp/",
       "startDate": "2025-10-01",
       "endDate": "2028-03-31"

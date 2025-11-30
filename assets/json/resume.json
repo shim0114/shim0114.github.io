@@ -53,7 +53,7 @@
   ],
   "work": [
     {
-      "name": "The University of Tokyo",
+      "name": "World-leading Innovative Graduate Study Program Co-designing Future Society (WINGS-CFS), The University of Tokyo",
       "position": "Research Assistant",
       "url": "https://cfs.t.u-tokyo.ac.jp/",
       "startDate": "2023-12-01",
@@ -67,7 +67,7 @@
       "endDate": ""
     }
   ],
-  "academic activities": [
+  "activities": [
     {
       "title": "Reviewer for International Conference on Learning Representations (ICLR)",
       "date": "2026"
@@ -79,9 +79,11 @@
   ],
   "grants": [
     {
-      "title": "Leadership Development Program for Ph.D.",
+      "title": "Leadership Development Program for Ph.D. (LDPP), the University of Tokyo",
+      "summary": "1,000,000 JPY",
       "url": "https://www.cerpo.t.u-tokyo.ac.jp/ldpp/",
-      "date": "2025-10"
+      "startDate": "2025-10-01",
+      "endDate": "2028-03-31"
     }
   ]
 }

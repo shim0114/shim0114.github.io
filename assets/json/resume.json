@@ -67,7 +67,7 @@
       "endDate": ""
     }
   ],
-  "volunteer": [
+  "academic activities": [
     {
       "organization": "Reviewer for International Conference on Learning Representations (ICLR)",
       "startDate": "2026",
@@ -79,7 +79,7 @@
       "endDate": ""
     }
   ],
-  "projects": [
+  "grants": [
     {
       "name": "Leadership Development Program for Ph.D. (LDPP), the University of Tokyo",
       "summary": "Grant Amount: 1,000,000 JPY",

@@ -26,4 +26,7 @@ latest_posts:
 
 I’m a first-year PhD student at The University of Tokyo, mentored by Professor [Yutaka Matsuo](https://ymatsuo.com/en/).   
 
-My research enthusiasm lies in understanding and controlling video generation models. My ultimate goal is to achieve an interactive and highly controllable generation that fully leverages the video model's priors on world dynamics.
+My research is driven by a passion to understand and control the worlds modeled by deep generative models. 
+My ultimate goal is to build real-time, interactive world models that can seamlessly manifest human imagination into reality.
+
+To move toward this goal, my research focuses on video diffusion models and world models, with recent work on alignment and memory mechanisms for long-horizon, interactive video generation.

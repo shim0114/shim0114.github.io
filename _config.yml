@@ -9,7 +9,7 @@ last_name: Oshima
 contact_note:
 description: 
 footer_text: 
-keywords: generative models, video generation, AI alignment, generation steering # add your own keywords or leave empty
+keywords: generative modeling, video generation, world models # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌎 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

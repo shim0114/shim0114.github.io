@@ -5,7 +5,7 @@
 
 @use "sass:color";
 
-// Colors, Change red-color from #ff3636
+// Colors
 $red-color: #F92672 !default;
 $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;
@@ -26,7 +26,7 @@ $yellow-color: #efcc00 !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark: #1d1c1d;
+$grey-color-dark: #0b0c15;
 $grey-900: #212529;
 
 $white-color: #ffffff !default;

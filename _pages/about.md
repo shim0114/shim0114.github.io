@@ -28,4 +28,4 @@ I’m a first-year PhD student at The University of Tokyo, mentored by Professor
 
 My ultimate goal is to build **real-time, interactive world models** that seamlessly manifest human imagination into reality—enabling anyone to instantly craft and navigate their envisioned worlds with intuitive, precise control.
 
-To move toward this vision, my research focuses on video diffusion models and world models. This includes recent work on **alignment** and **reference-driven generation** to enhance fine-grained controllability. Furthermore, I am addressing the fundamental challenge of **memory mechanisms** to ensure long-horizon consistency and stable interaction within generative environments.
+To move toward this vision, my research focuses on video diffusion models and world models. This includes recent work on **alignment** and **subject-driven generation** to enhance fine-grained controllability. Furthermore, I am addressing the fundamental challenge of **memory mechanisms** to ensure long-horizon consistency and stable interaction within generative environments.

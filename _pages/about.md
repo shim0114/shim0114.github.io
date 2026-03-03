@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a first-year PhD student at The University of Tokyo, mentored by Professor [Yutaka Matsuo](https://ymatsuo.com/en/).   
+I’m a PhD student at The University of Tokyo, mentored by Professor [Yutaka Matsuo](https://ymatsuo.com/en/).   
 
 My ultimate goal is to build **real-time, interactive world models** that seamlessly translate human imagination into reality—empowering anyone to craft and mold their envisioned worlds with intuitive and precise control.
 

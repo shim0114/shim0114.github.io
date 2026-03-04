@@ -27,7 +27,7 @@
       "institution": "University of Tokyo, Tokyo, Japan",
       "location": "Tokyo, Japan",
       "url": "https://www.u-tokyo.ac.jp/en/",
-      "area": "Systems Innovation",
+      "area": "Engineering",
       "studyType": "Bachelor",
       "startDate": "2019-04-01",
       "endDate": "2023-03-31"
@@ -36,7 +36,7 @@
       "institution": "University of Tokyo, Tokyo, Japan",
       "location": "Tokyo, Japan",
       "url": "https://www.u-tokyo.ac.jp/en/",
-      "area": "Technology Management for Innovation",
+      "area": "Computer Science",
       "studyType": "Master",
       "startDate": "2023-04-01",
       "endDate": "2025-03-31"
@@ -45,7 +45,7 @@
       "institution": "University of Tokyo, Tokyo, Japan",
       "location": "Tokyo, Japan",
       "url": "https://www.u-tokyo.ac.jp/en/",
-      "area": "Technology Management for Innovation",
+      "area": "Computer Science",
       "studyType": "Doctor",
       "startDate": "2025-04-01",
       "endDate": ""
@@ -57,14 +57,14 @@
       "position": "Research Assistant",
       "url": "https://cfs.t.u-tokyo.ac.jp/",
       "startDate": "2023-12-01",
-      "endDate": ""
+      "endDate": "2028-03-31"
     },
     {
       "name": "EQUES",
       "position": "AI Researcher",
       "url": "https://eques.co.jp/",
       "startDate": "2025-07-01",
-      "endDate": ""
+      "endDate": "2026-03-31"
     }
   ],
   "academic activities": [

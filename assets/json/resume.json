@@ -58,7 +58,7 @@
       "url": "https://www.u-tokyo.ac.jp/en/",
       "startDate": "2023-12-01",
       "endDate": "2028-03-31",
-      "summary": "Video generation for anime production, supported by Japan's Ministry of Economy, Trade and Industry (METI)."
+      "summary": "Scholarship programs for Ph.D stuendts: WINGS-CFS, LDPP."
     },
     {
       "name": "EQUES",
@@ -66,7 +66,7 @@
       "url": "https://eques.co.jp/",
       "startDate": "2025-07-01",
       "endDate": "2026-03-31",
-      "summary": "Scholarship programs for Ph.D stuendts: WINGS-CFS, LDPP."
+      "summary": "Video generation for anime production, supported by Japan's Ministry of Economy, Trade and Industry (METI)."
     }
   ],
   "academic activities": [
@@ -94,7 +94,7 @@
   "grants": [
     {
       "name": "Leadership Development Program for Ph.D. (LDPP), the University of Tokyo",
-      "summary": "Grant Amount: 1,000,000 JPY",
+      "summary": "Grant Amount: 1,000,000 JPY.",
       "url": "https://www.cerpo.t.u-tokyo.ac.jp/ldpp/",
       "startDate": "2025-10-01",
       "endDate": "2028-03-31"

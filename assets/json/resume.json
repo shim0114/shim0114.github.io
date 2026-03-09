@@ -53,18 +53,20 @@
   ],
   "work": [
     {
-      "name": "World-leading Innovative Graduate Study Program Co-designing Future Society (WINGS-CFS), The University of Tokyo",
-      "position": "Research Assistant",
-      "url": "https://cfs.t.u-tokyo.ac.jp/",
+      "name": "The University of Tokyo",
+      "position": "Student Researcher",
+      "url": "https://www.u-tokyo.ac.jp/en/",
       "startDate": "2023-12-01",
-      "endDate": "2028-03-31"
+      "endDate": "2028-03-31",
+      "summary": "Video generation for anime production, supported by Japan's Ministry of Economy, Trade and Industry (METI)."
     },
     {
       "name": "EQUES",
       "position": "AI Researcher",
       "url": "https://eques.co.jp/",
       "startDate": "2025-07-01",
-      "endDate": "2026-03-31"
+      "endDate": "2026-03-31",
+      "summary": "Scholarship programs for Ph.D stuendts: WINGS-CFS, LDPP."
     }
   ],
   "academic activities": [

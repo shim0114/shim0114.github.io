@@ -76,7 +76,7 @@
       "endDate": ""
     },
     {
-      "organization": "Reviewer for The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "organization": "Reviewer for the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
       "startDate": "2026",
       "endDate": ""
     },
@@ -89,7 +89,12 @@
       "organization": "Reviewer for European Conference on Computer Vision (ECCV)",
       "startDate": "2026",
       "endDate": ""
-    }
+    },
+    {
+      "organization": "Reviewer for Neural Information Processing Systems (NeurIPS)",
+      "startDate": "2026",
+      "endDate": ""
+    },
   ],
   "grants": [
     {

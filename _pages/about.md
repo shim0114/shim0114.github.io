@@ -26,5 +26,5 @@ latest_posts:
 
 I’m a PhD student at The University of Tokyo, mentored by Professor [Yutaka Matsuo](https://ymatsuo.com/en/).   
 
-My research goal is to develop **interactive vision generation systems** that translate human imagination into reality. 
-To this end, I focus on improving the controllability of vision foundation models, particularly **diffusion models**, through **alignment** and **instruction following** to enable fine-grained visual generation.
+My research goal is to develop **interactive vision generation systems** that translate human imagination into reality, enabling anyone to create and shape visual worlds with intuitive, flexible, and precise control.
+Toward this goal, I currently focus on improving the controllability of vision foundation models, particularly **diffusion models**, through **alignment** and **instruction following** for fine-grained visual generation.

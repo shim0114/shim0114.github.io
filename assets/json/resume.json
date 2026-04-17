@@ -97,8 +97,15 @@
     }
   ],
   "grants": [
+      {
+      "name": "The Telecommunications Advancement Foundation (TAF)",
+      "summary": "Grant Amount: 250,000 JPY.",
+      "url": "https://www.taf.or.jp/grant-b/01/",
+      "startDate": "2026-05-01",
+      "endDate": "2026-10-31"
+    },
     {
-      "name": "Leadership Development Program for Ph.D. (LDPP), the University of Tokyo",
+      "name": "Leadership Development Program for Ph.D. (LDPP)",
       "summary": "Grant Amount: 1,000,000 JPY.",
       "url": "https://www.cerpo.t.u-tokyo.ac.jp/ldpp/",
       "startDate": "2025-10-01",

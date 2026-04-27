@@ -32,24 +32,24 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-// Site palette — Latte (light) / Mocha (dark)
+// Site palette — Teal Motif (Latte light / Mocha dark)
 // Light mode (Latte)
-$latte-bg: #f6f8ff;
-$latte-card: #edf2ff;
-$latte-text: #24304f;
-$latte-text-muted: #617093;
-$latte-accent: #3a6fd6; // rolling blue — links, theme
-$latte-sub-accent: #b95cc8; // pink violet — badges, hover
-$latte-divider: #d8e0f4;
+$latte-bg: #f4fbfb;
+$latte-card: #eaf6f6;
+$latte-text: #18343a;
+$latte-text-muted: #5c7880;
+$latte-accent: #1597a5; // teal — links, theme
+$latte-sub-accent: #58c6be; // soft mint — badges, hover
+$latte-divider: #cfe5e6;
 
 // Dark mode (Mocha)
-$mocha-bg: #121728;
-$mocha-card: #1d253a;
-$mocha-text: #e6ebff;
-$mocha-text-muted: #a9b4d6;
-$mocha-accent: #8fb4ff; // soft blue — links, theme
-$mocha-sub-accent: #e78bea; // glow pink — badges, hover
-$mocha-divider: #303b59;
+$mocha-bg: #081b1f;
+$mocha-card: #10292f;
+$mocha-text: #e8fbfb;
+$mocha-text-muted: #abcfd0;
+$mocha-accent: #21b8c8; // bright teal — links, theme
+$mocha-sub-accent: #7adfd3; // luminous mint — badges, hover
+$mocha-divider: #2a474d;
 
 // Theme colors
 

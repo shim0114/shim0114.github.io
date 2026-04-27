@@ -42,11 +42,13 @@ $solarized-base1: #93a1a1; // dark mode body text, light mode subtle text
 $solarized-base2: #eee8d5; // light mode card / code bg, dark mode footer bg
 $solarized-base3: #fdf6e3; // light mode page bg
 $solarized-cyan: #2aa198; // primary accent (青緑)
-$solarized-green: #859900; // alt accent / hover (オリーブ)
+$solarized-green: #859900; // reserved (used in tip block, no longer accent)
+$solarized-blue: #268bd2; // alt accent / hover (青)
+$solarized-base1-bright: #c5cdcd; // brighter dark-mode body text (Solarizedより明るく)
 
 // Theme colors
 
-$code-bg-color-light: $solarized-base2;
+$code-bg-color-light: $solarized-base3;
 $code-bg-color-dark: $solarized-base02;
 
 // Font awesome location

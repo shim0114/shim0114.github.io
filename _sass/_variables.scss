@@ -32,28 +32,29 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-// Solarized palette (https://ethanschoonover.com/solarized/)
-$solarized-base03: #002b36; // dark mode page bg
-$solarized-base02: #073642; // dark mode card / code bg, light mode footer bg
-$solarized-base01: #586e75; // light mode body text, dark mode subtle text
-$solarized-base00: #657b83;
-$solarized-base0: #839496;
-$solarized-base1: #93a1a1; // dark mode body text, light mode subtle text
-$solarized-base2: #eee8d5; // light mode card / code bg, dark mode footer bg
-$solarized-base3: #fdf6e3; // light mode page bg
-$solarized-cyan: #2aa198; // primary accent (青緑)
-$solarized-green: #859900; // reserved (used in tip block, no longer accent)
-$solarized-blue: #268bd2; // pure Solarized blue (reserved, not currently used as accent)
-$accent-blue-teal: #2898b5; // 青寄りティール — venue badge背景
-$accent-green-teal-light: #1d8b78; // 緑寄りティール（上品な青緑）— ライトモードのhover/highlight
-$accent-green-teal-dark: #42b89e; // 緑寄りティール（明るめ）— ダークモードのhover
-$solarized-base1-bright: #c5cdcd; // brighter dark-mode body text (Solarizedより明るく)
-$solarized-base01-dark: #3d5158; // darker light-mode body text (base01より濃いめ)
+// Site palette — Latte (light) / Mocha (dark)
+// Light mode (Latte)
+$latte-bg: #f6f8ff;
+$latte-card: #edf2ff;
+$latte-text: #24304f;
+$latte-text-muted: #617093;
+$latte-accent: #3a6fd6; // rolling blue — links, theme
+$latte-sub-accent: #b95cc8; // pink violet — badges, hover
+$latte-divider: #d8e0f4;
+
+// Dark mode (Mocha)
+$mocha-bg: #121728;
+$mocha-card: #1d253a;
+$mocha-text: #e6ebff;
+$mocha-text-muted: #a9b4d6;
+$mocha-accent: #8fb4ff; // soft blue — links, theme
+$mocha-sub-accent: #e78bea; // glow pink — badges, hover
+$mocha-divider: #303b59;
 
 // Theme colors
 
-$code-bg-color-light: $solarized-base3;
-$code-bg-color-dark: $solarized-base02;
+$code-bg-color-light: $latte-card;
+$code-bg-color-dark: $mocha-card;
 
 // Font awesome location
 $fa-font-path: "../webfonts";

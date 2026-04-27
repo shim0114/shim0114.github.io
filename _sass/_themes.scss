@@ -8,10 +8,10 @@
   color-scheme: light;
   --global-bg-color: #{$solarized-base2};
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$solarized-base01};
+  --global-text-color: #{$solarized-base01-dark};
   --global-text-color-light: #{$solarized-base1};
   --global-theme-color: #{$solarized-cyan};
-  --global-hover-color: #{$solarized-blue};
+  --global-hover-color: #{$accent-blue-teal};
   --global-hover-text-color: #{$solarized-base3};
   --global-footer-bg-color: #{$solarized-base02};
   --global-footer-text-color: #{$solarized-base1};
@@ -19,7 +19,8 @@
   --global-distill-app-color: #{$solarized-base01};
   --global-divider-color: rgba(88, 110, 117, 0.18);
   --global-card-bg-color: #{$solarized-base3};
-  --global-highlight-color: #{$solarized-blue};
+  --global-highlight-color: #{$accent-blue-teal};
+  --global-badge-bg-color: #{$accent-blue-teal};
   --global-back-to-top-bg-color: rgba(
     #{color.channel($solarized-base02, "red", $space: rgb)},
     #{color.channel($solarized-base02, "green", $space: rgb)},
@@ -83,7 +84,7 @@ html[data-theme="dark"] {
   --global-text-color: #{$solarized-base1-bright};
   --global-text-color-light: #{$solarized-base1};
   --global-theme-color: #{$solarized-cyan};
-  --global-hover-color: #{$solarized-blue};
+  --global-hover-color: #{$accent-blue-teal};
   --global-hover-text-color: #{$solarized-base3};
   --global-footer-bg-color: #{$solarized-base2};
   --global-footer-text-color: #{$solarized-base01};
@@ -91,6 +92,7 @@ html[data-theme="dark"] {
   --global-distill-app-color: #{$solarized-base1};
   --global-divider-color: rgba(147, 161, 161, 0.2);
   --global-card-bg-color: #{$solarized-base02};
+  --global-badge-bg-color: #{$accent-blue-teal};
   --global-back-to-top-bg-color: rgba(
     #{color.channel($solarized-base2, "red", $space: rgb)},
     #{color.channel($solarized-base2, "green", $space: rgb)},

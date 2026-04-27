@@ -32,10 +32,22 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+// Solarized palette (https://ethanschoonover.com/solarized/)
+$solarized-base03: #002b36; // dark mode page bg
+$solarized-base02: #073642; // dark mode card / code bg, light mode footer bg
+$solarized-base01: #586e75; // light mode body text, dark mode subtle text
+$solarized-base00: #657b83;
+$solarized-base0: #839496;
+$solarized-base1: #93a1a1; // dark mode body text, light mode subtle text
+$solarized-base2: #eee8d5; // light mode card / code bg, dark mode footer bg
+$solarized-base3: #fdf6e3; // light mode page bg
+$solarized-cyan: #2aa198; // primary accent (青緑)
+$solarized-green: #859900; // alt accent / hover (オリーブ)
+
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
+$code-bg-color-light: $solarized-base2;
+$code-bg-color-dark: $solarized-base02;
 
 // Font awesome location
 $fa-font-path: "../webfonts";

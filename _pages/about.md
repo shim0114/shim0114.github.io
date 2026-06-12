@@ -26,6 +26,6 @@ latest_posts:
 
 I’m a PhD student at The University of Tokyo, mentored by Professor [Yutaka Matsuo](https://ymatsuo.com/en/).   
 
-My research goal is to develop **interactive image and video generation models**, letting anyone create and shape visual worlds with intuitive, flexible, and precise control.
+My research goal is to develop algorithmic advances for vision foundation models — ideas simple enough to validate at small scale, yet general enough to hold, even grow, with scale and become part of how these models are built.
 
-Toward this goal, I currently focus on improving the controllability of vision foundation models such as **diffusion models**, through **alignment** and **instruction-following** to enable fine-grained visual generation.
+Toward this goal, I currently work on alignment and evaluation of image and video generation models, as ways to measure and elicit what these models can do.

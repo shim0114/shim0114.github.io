@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a PhD student at The University of Tokyo, mentored by Professor [Yutaka Matsuo](https://ymatsuo.com/en/).   
+I’m a Ph.D. student at The University of Tokyo, mentored by Professor [Yutaka Matsuo](https://ymatsuo.com/en/).   
 
 My research goal is to develop algorithmic advances for vision foundation models — simple ideas that hold or even grow as models scale, and become part of how they are built and used.
 

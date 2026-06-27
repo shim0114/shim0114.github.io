@@ -58,7 +58,7 @@
       "url": "https://www.u-tokyo.ac.jp/en/",
       "startDate": "2023-12-01",
       "endDate": "2028-03-31",
-      "summary": "Scholarship programs for Ph.D stuendts."
+      "summary": "Supported by scholarship programs for Ph.D stuendts."
     },
     {
       "name": "EQUES",
@@ -98,14 +98,21 @@
   ],
   "grants": [
       {
-      "name": "The Telecommunications Advancement Foundation (TAF)",
+      "name": "The Telecommunications Advancement Foundation",
       "summary": "Overseas Travel Grant for CVPR 2026, ￥250,000.",
       "url": "https://www.taf.or.jp/grant-b/02/",
       "startDate": "2026-05-01",
       "endDate": "2026-10-31"
     },
     {
-      "name": "Leadership Development Program for Ph.D. (LDPP)",
+      "name": "The Nippon Foundation HUMAI Program",
+      "summary": "Research Funding, ￥280,000.",
+      "url": "https://weblab.t.u-tokyo.ac.jp/en/news/2025-0425/",
+      "startDate": "2026-08-01",
+      "endDate": "2026-03-31"
+    },
+    {
+      "name": "Leadership Development Program for Ph.D.",
       "summary": "The University of Tokyo, 2025, ￥1,000,000.",
       "url": "https://utf.u-tokyo.ac.jp/project/pjt96",
       "startDate": "2025-10-01",

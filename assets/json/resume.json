@@ -71,17 +71,7 @@
   ],
   "academic activities": [
     {
-      "organization": "Reviewer for International Conference on Learning Representations (ICLR)",
-      "startDate": "2026",
-      "endDate": ""
-    },
-    {
       "organization": "Reviewer for the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-      "startDate": "2026",
-      "endDate": ""
-    },
-    {
-      "organization": "Reviewer for International Conference on Machine Learning (ICML)",
       "startDate": "2026",
       "endDate": ""
     },
@@ -91,8 +81,23 @@
       "endDate": ""
     },
     {
+      "organization": "Reviewer for International Conference on Learning Representations (ICLR)",
+      "startDate": "2026",
+      "endDate": ""
+    },
+    {
+      "organization": "Reviewer for International Conference on Machine Learning (ICML)",
+      "startDate": "2026",
+      "endDate": ""
+    },
+    {
       "organization": "Reviewer for Neural Information Processing Systems (NeurIPS)",
       "startDate": "2026",
+      "endDate": ""
+    },
+    {
+      "organization": "The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+      "startDate": "2027",
       "endDate": ""
     }
   ],

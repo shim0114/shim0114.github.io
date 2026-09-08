@@ -26,6 +26,4 @@ latest_posts:
 
 I’m a Ph.D. student at The University of Tokyo, mentored by Professor [Yutaka Matsuo](https://ymatsuo.com/en/).   
 
-My research goal is to develop algorithmic advances for vision foundation models — simple ideas that hold or even grow as models scale, and become part of how they are built and used.
-
-Toward this goal, I currently work on the alignment and evaluation of image and video generation models to measure and elicit what they can do.
+I conduct research on generative models, image and video generation, and world models. My work aims to develop scalable, general-purpose generative models to create and simulate the visual world.

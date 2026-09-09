@@ -89,11 +89,8 @@ layout: default
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">
-              {%- if data[0] == 'award & honors' -%}
-                Award &amp; Honors
-              {%- else -%}
-                {{ data[0] | capitalize }}
-              {%- endif -%}
+              {%- assign section_words = data[0] | split: ' ' -%}
+              {%- for word in section_words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor -%}
             </h3>
             <div>
               {% case data[0] %}
@@ -109,9 +106,9 @@ layout: default
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
-                {% when 'academic activities' %}
+                {% when 'academic services' %}
                   {% include resume/academic_activities.liquid %}
-                {% when 'award & honors' %}
+                {% when 'awards & honors' %}
                   {% include resume/grants.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}

@@ -24,7 +24,7 @@
   },
   "education": [
     {
-      "institution": "University of Tokyo, Tokyo, Japan",
+      "institution": "University of Tokyo",
       "location": "Tokyo, Japan",
       "url": "https://www.u-tokyo.ac.jp/en/",
       "area": "Engineering",
@@ -33,7 +33,7 @@
       "endDate": "2023-03-31"
     },
     {
-      "institution": "University of Tokyo, Tokyo, Japan",
+      "institution": "University of Tokyo",
       "location": "Tokyo, Japan",
       "url": "https://www.u-tokyo.ac.jp/en/",
       "area": "Computer Science",
@@ -42,7 +42,7 @@
       "endDate": "2025-03-31"
     },
     {
-      "institution": "University of Tokyo, Tokyo, Japan",
+      "institution": "University of Tokyo",
       "location": "Tokyo, Japan",
       "url": "https://www.u-tokyo.ac.jp/en/",
       "area": "Computer Science",

@@ -90,7 +90,8 @@ layout: default
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">
               {%- assign section_words = data[0] | split: ' ' -%}
-              {%- for word in section_words %}{{ word | capitalize }}{% unless forloop.last %} {% endunless %}{% endfor -%}
+              {%- for word in section_words %}{{ word | capitalize }}{% unless forloop.last %}{{ ' ' }}{% endunless %}{% endfor -%}
+             </h3>
             </h3>
             <div>
               {% case data[0] %}

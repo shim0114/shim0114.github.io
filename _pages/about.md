@@ -26,4 +26,4 @@ latest_posts:
 
 I’m a Ph.D. student at The University of Tokyo, mentored by Professor [Yutaka Matsuo](https://ymatsuo.com/en/).   
 
-I conduct research on generative models, image and video generation, and world models. My work aims to develop scalable, general-purpose generative models to create and simulate the visual world.
+My goal is to develop scalable, general-purpose generative models that can create and simulate the visual world. To this end, I work on 𝗶𝗺𝗮𝗴𝗲 𝗮𝗻𝗱 𝘃𝗶𝗱𝗲𝗼 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻, 𝘄𝗼𝗿𝗹𝗱 𝗺𝗼𝗱𝗲𝗹𝘀, and 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁𝘀. More broadly, I hope to unlock the full potential of visual generative AI and expand the range of domains where it can be applied.

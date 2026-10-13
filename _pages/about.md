@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a Ph.D. student at The University of Tokyo, mentored by Professor [Yutaka Matsuo](https://ymatsuo.com/en/).   
+I’m a second-year Ph.D. student at the University of Tokyo, advised by Professor [Yutaka Matsuo](https://ymatsuo.com/en/). I am also a research intern at [Sakana AI](https://sakana.ai/), working on video world models.
 
-My goal is to develop scalable, general-purpose generative models that can create and simulate the visual world. To this end, I work on 𝗶𝗺𝗮𝗴𝗲 𝗮𝗻𝗱 𝘃𝗶𝗱𝗲𝗼 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻, 𝘄𝗼𝗿𝗹𝗱 𝗺𝗼𝗱𝗲𝗹𝘀, and 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁𝘀. More broadly, I hope to unlock the full potential of visual generative AI and expand the range of domains where it can be applied.
+My Ph.D. research aims to unlock the potential of image and video generation AI and expand the domains where it can be used. Just as LLMs are now indispensable across countless domains, image and video generation should follow the same path. To this end, I am currently working on 𝗱𝗶𝗳𝗳𝘂𝘀𝗶𝗼𝗻 𝗺𝗼𝗱𝗲𝗹𝘀 for video generation and world models, and 𝗺𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁𝘀 for image generation.

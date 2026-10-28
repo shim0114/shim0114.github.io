@@ -26,4 +26,4 @@ latest_posts:
 
 I’m a second-year Ph.D. student at the University of Tokyo, advised by Professor [Yutaka Matsuo](https://ymatsuo.com/en/). I am also a research intern at [Sakana AI](https://sakana.ai/) and [AIRoA](https://www.airoa.org/).
 
-My Ph.D. research aims to unlock the potential of image and video generation AI and expand the domains where it can be used. Just as LLMs are now indispensable across countless domains, image and video generation should follow the same path. To this end, I am currently working on 𝗱𝗶𝗳𝗳𝘂𝘀𝗶𝗼𝗻 𝗺𝗼𝗱𝗲𝗹𝘀 for video generation and world models, and 𝗺𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁𝘀 for image generation.
+My research focuses on general methods that leverage computation—post-training, inference-time scaling, and multimodal AI agents—with a particular emphasis on diffusion models and world models. My vision is to let anyone turn their imagination into images, videos, and interactive worlds.

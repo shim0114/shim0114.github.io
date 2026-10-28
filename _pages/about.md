@@ -26,4 +26,6 @@ latest_posts:
 
 I’m a second-year Ph.D. student at the University of Tokyo, advised by Professor [Yutaka Matsuo](https://ymatsuo.com/en/). I am also a research intern at [Sakana AI](https://sakana.ai/) and [AIRoA](https://www.airoa.org/).
 
-My research lies in **diffusion models**, **video world models**, and **multimodal AI agents**. My vision is to let anyone turn their imagination into images, videos, and interactive worlds.
+My research goal is to build AI that lets anyone turn their imagination into images, videos, and interactive worlds. To this end, I focus on improving **diffusion models** and **video world models** by leveraging computation at both training and inference time.
+
+Recently, I have been particularly interested in using **multimodal AI agents** to unlock the full potential of visual generation, making it more controllable and visually compelling.

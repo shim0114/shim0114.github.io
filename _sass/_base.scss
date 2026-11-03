@@ -759,7 +759,7 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: var(--global-badge-bg-color);
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          color: white !important;
 
           a {
             color: white;
@@ -824,6 +824,24 @@ footer.sticky-bottom {
         }
         a.award.btn {
           border-color: var(--global-highlight-color);
+        }
+        // Highlight beside the link buttons. Not a .btn, so it keeps its own capitalization.
+        .impact-badge {
+          display: inline-block;
+          padding: 0.16rem 0.75rem;
+          border: 1px solid var(--global-impact-border-color);
+          border-radius: 0.125rem;
+          background-color: var(--global-impact-bg-color);
+          color: var(--global-impact-text-color);
+          font-size: 0.75rem;
+          font-weight: 500;
+          line-height: 1.5;
+          vertical-align: middle;
+
+          &:hover {
+            color: var(--global-impact-text-color);
+            text-decoration: underline;
+          }
         }
       }
 

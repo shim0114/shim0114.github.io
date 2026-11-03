@@ -38,8 +38,8 @@ $latte-bg: #f4fbfb;
 $latte-card: #eaf6f6;
 $latte-text: #18343a;
 $latte-text-muted: #5c7880;
-$latte-accent: #1597a5; // teal — links, theme
-$latte-sub-accent: #58c6be; // soft mint — badges, hover
+$latte-accent: #117c88; // teal — links, theme
+$latte-sub-accent: #40bdb3; // soft mint — badges, hover
 $latte-divider: #cfe5e6;
 
 // Dark mode (Mocha)
@@ -48,7 +48,8 @@ $mocha-card: #10292f;
 $mocha-text: #e8fbfb;
 $mocha-text-muted: #abcfd0;
 $mocha-accent: #7adfd3; // luminous mint — links, theme（明るく目立つ）
-$mocha-sub-accent: #21b8c8; // bright teal — badges, hover（深みでアンカー）
+$mocha-sub-accent: #21b8c8; // bright teal — hover（深みでアンカー）
+$mocha-badge-bg: #1b95a2; // deeper teal — white-text badges
 $mocha-divider: #2a474d;
 
 // Theme colors

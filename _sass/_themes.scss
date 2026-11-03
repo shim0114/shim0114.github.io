@@ -21,6 +21,9 @@
   --global-card-bg-color: #{$latte-card};
   --global-highlight-color: #{$latte-sub-accent};
   --global-badge-bg-color: #{$latte-sub-accent};
+  --global-impact-bg-color: #fff3cf;
+  --global-impact-border-color: #f0b429;
+  --global-impact-text-color: #7a4b00;
   --global-back-to-top-bg-color: rgba(
     #{color.channel($mocha-bg, "red", $space: rgb)},
     #{color.channel($mocha-bg, "green", $space: rgb)},
@@ -93,7 +96,10 @@ html[data-theme="dark"] {
   --global-divider-color: #{$mocha-divider};
   --global-card-bg-color: #{$mocha-card};
   --global-highlight-color: #{$mocha-sub-accent};
-  --global-badge-bg-color: #{$mocha-sub-accent};
+  --global-badge-bg-color: #{$mocha-badge-bg};
+  --global-impact-bg-color: #2e2a18;
+  --global-impact-border-color: #c9962f;
+  --global-impact-text-color: #ffd27a;
   --global-back-to-top-bg-color: rgba(
     #{color.channel($latte-card, "red", $space: rgb)},
     #{color.channel($latte-card, "green", $space: rgb)},

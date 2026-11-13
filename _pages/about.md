@@ -26,4 +26,4 @@ latest_posts:
 
 I’m a second-year Ph.D. student at the University of Tokyo, advised by Professor [Yutaka Matsuo](https://ymatsuo.com/en/), and a recipient of [the 2026 Google PhD Fellowship in Machine Perception](https://research.google/programs-and-events/phd-fellowship/recipients/?filtertab=2026). I am also a research intern at [Sakana AI](https://sakana.ai/) and [AIRoA](https://www.airoa.org/).
 
-My research goal is to build AI that lets anyone turn their imagination into images, videos, and interactive worlds. To this end, I focus on **alignment**, **evaluation**, and **multimodal AI agents** for visual generation and world modeling to unlock their full potential, making them more controllable and visually compelling.
+My research goal is to build AI that lets anyone turn their imagination into images, videos, and interactive worlds. To this end, I focus on **alignment**, **evaluation**, and **multimodal AI agents** for **visual generation** and **world modeling** to unlock their full potential, making them more controllable and visually compelling.

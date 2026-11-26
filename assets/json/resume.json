@@ -58,7 +58,7 @@
       "url": "https://sakana.ai/",
       "startDate": "2026-10-19",
       "endDate": "",
-      "summary": "Research on Video World Models."
+      "summary": "Video world models."
     },
     {
       "name": "AIRoA",
@@ -66,7 +66,7 @@
       "url": "https://www.airoa.org/",
       "startDate": "2026-10-14",
       "endDate": "",
-      "summary": "Research on Robot Foundation Models."
+      "summary": "Video foundation models for robotics."
     },
     {
       "name": "The University of Tokyo",
@@ -82,7 +82,7 @@
       "url": "https://eques.co.jp/",
       "startDate": "2025-07-01",
       "endDate": "2026-03-31",
-      "summary": "Vision generation for anime production within the GENIAC project, supported by Japan's Ministry of Economy, Trade and Industry (METI)."
+      "summary": "GenAI for anime, supported by Japan's Ministry of Economy, Trade and Industry (METI)."
     }
   ],
     "academic services": [

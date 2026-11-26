@@ -87,7 +87,7 @@
   ],
     "academic services": [
     {
-      "organization": "Reviewer for the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026",
+      "organization": "Reviewer for the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, 2027",
       "startDate": "2026",
       "endDate": ""
     },
@@ -102,7 +102,7 @@
       "endDate": ""
     },
     {
-      "organization": "Reviewer for International Conference on Machine Learning (ICML), 2026 (Silver Reviewer)",
+      "organization": "Reviewer for International Conference on Machine Learning (ICML), 2026 (Silver Reviewer), 2027",
       "startDate": "2026",
       "endDate": ""
     },
@@ -126,25 +126,11 @@
       "endDate": "2026-12-31"
     },
     {
-      "name": "Invited Review Article",
-      "url": "",
-      "summary": "Journal of the Imaging Society of Japan",
-      "startDate": "2026-12-01",
-      "endDate": "2026-12-01"
-    },
-    {
-      "name": "Overseas Travel Grant",
+      "name": "Overseas Travel Grant for CVPR 2026",
       "url": "https://www.taf.or.jp/grant-b/02/",
       "summary": "The Telecommunications Advancement Foundation",
       "startDate": "2026-05-01",
       "endDate": "2026-10-31"
-    },
-    {
-      "name": "3rd Place",
-      "url": "https://doi.org/10.1145/3769748.3773362",
-      "summary": "The ACM MMAsia 2025 Grand Challenge: Multimodal Multiethnic Talking-Head Video Generation",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-31"
     },
     {
       "name": "Research Funding",
@@ -152,27 +138,6 @@
       "summary": "The University of Tokyo Leadership Development Program for Ph.D.",
       "startDate": "2025-10-01",
       "endDate": "2028-03-31"
-    },
-    {
-      "name": "Research Funding",
-      "url": "https://zen.ac.jp/news/yq9xkp10m",
-      "summary": "The Nippon Foundation HUMAI Program",
-      "startDate": "2025-08-01",
-      "endDate": "2028-03-31"
-    },
-    {
-      "name": "Outstanding Presentation Award",
-      "url": "https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/",
-      "summary": "JSAI Annual Conference",
-      "startDate": "2024-05-28",
-      "endDate": "2024-05-31"
-    },
-    {
-      "name": "Spotlight Presentation",
-      "url": "https://www.dropbox.com/scl/fi/dnp4f7sav8d5ifskl5ysu/WMPC-P4-Tactile-IROS2023_Workshop-Tatsuya-KAMIJO.pdf?rlkey=uc5p6c43850mlxvzhog9drerh&e=1&dl=0",
-      "summary": "IROS 2023 Workshop on World Models and Predictive Coding in Cognitive Robotics",
-      "startDate": "2023-10-05",
-      "endDate": "2023-10-05"
     }
   ]
 }
